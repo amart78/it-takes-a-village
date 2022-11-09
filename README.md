@@ -23,4 +23,3 @@ It Takes a Village is a character catalog application that lists character detai
  
  ## Try It Out
 <a href="http://13.59.23.193:3000/"><img src="https://img.shields.io/badge/Go%20to%20site-It%20Takes%20A%20Village-brightgreen?style=for-the-badge"/></a>
-[!https://img.shields.io/badge/Go%20to%20site%20-%20It%20Takes%20A%20Village-brightgreen)](http://13.59.23.193:3000/)
